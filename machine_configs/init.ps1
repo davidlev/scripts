@@ -34,6 +34,7 @@ $chocoPackages = (
     "beyondcompare",
     "boostnote",
     #"ccleaner",
+    "filezilla"
     "lastpass",
     "ditto",
     #"docker",
@@ -41,6 +42,7 @@ $chocoPackages = (
     "dotnetcore-sdk",
     #"everything",
     "firefox",
+    "gimp",
     "git",
     "Git-Credential-Manager-for-Windows",
     "gitextensions",
@@ -54,6 +56,7 @@ $chocoPackages = (
     "jq",
     "microsoft-build-tools --version 14.0.25420.1", #2015
     "mRemoteNG",
+    "notepadplusplus",
     "netfx-4.7.1-devpack",
     "nodejs-lts --version=10.16.3",
     "NuGet.CommandLine",
@@ -67,7 +70,7 @@ $chocoPackages = (
     "python3",
     "redis-desktop-manager",
     "slack",
-    #"spotify",
+    "spotify",
     "sql-server-management-studio",
     "SublimeText3",
     "terraform",
