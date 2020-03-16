@@ -90,6 +90,7 @@ $chocoPackages = (
     "vscode",
     "vswhere",
     "webdeploy",
+    "whatsapp",
     "windirstat",
     "windows-sdk-10.1",
     "winscp",
