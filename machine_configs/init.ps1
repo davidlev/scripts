@@ -34,7 +34,7 @@ $chocoPackages = (
     "beyondcompare",
     "boostnote",
     #"ccleaner",
-    "filezilla"
+    "filezilla",
     "lastpass",
     "ditto",
     #"docker",
