@@ -43,6 +43,7 @@ $chocoPackages = (
     "dotnetcore-sdk",
     #"everything",
     "firefox",
+    "fiddler",
     "gimp",
     "git",
     "Git-Credential-Manager-for-Windows",
