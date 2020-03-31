@@ -29,6 +29,7 @@ draw-divider "installing chocolatey packages"
 $chocoPackages = (
     "7zip.install",
     "adobereader",
+    "agentransack"
     "awscli",
     "azure-functions-core-tools",
     "beyondcompare",
